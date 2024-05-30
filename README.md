@@ -13,11 +13,13 @@ Usage
 git clone https://github.com/Anghel-Marcel/Homework-Assignment 
 
 2.Navigate to project directory in CMD
-cd <path\to\directory>
 
-3.
-Run python script
-python HA_CEN2.1A_anghel.marcel.py
+Run CMD by pressing Win + R and typing cmd.
+Type cd <path\to\directory>
+
+3.Run python script
+
+Type in CMD the following : python HA_CEN2.1A_anghel.marcel.py
 
 
 Input Data
