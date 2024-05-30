@@ -2,6 +2,7 @@
 Artificial Intelligence Homework Assignment
 
 Travelling Salesman Problem
+
 This repository contains Python code for solving the Travelling Salesman Problem (TSP) using various search algorithms.
 
 Requirements
