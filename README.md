@@ -8,6 +8,7 @@ Requirements
 Python 3.x
 
 Usage
+
 1.Download/Clone the repository to your local machine:
 
 git clone https://github.com/Anghel-Marcel/Homework-Assignment 
@@ -19,7 +20,7 @@ Type cd <path\to\directory>
 
 3.Run python script
 
-Type in CMD the following : python HA_CEN2.1A_anghel.marcel.py
+Type in CMD the following : python HA_CEN2.1A_anghel_marcel.py
 
 
 Input Data
