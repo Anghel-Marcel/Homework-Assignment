@@ -24,7 +24,7 @@ Type in CMD the following : python HA_CEN2.1A_anghel_marcel.py
 
 
 Input Data
-The input data for the TSP solver can be provided in the form of distance matrices. You can define your own datasets or use existing ones.
+The input data for the TSP problem can be provided in the form of distance matrices.
 
 Output
-The output of the TSP solver includes the shortest path found and its cost for each algorithm tested.
+The output of the TSP problem includes the shortest path found and its cost for each algorithm tested.
